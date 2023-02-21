@@ -2,7 +2,7 @@
     package="com.example.acronyms_finder">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="acronyms_finder"
+        android:label="Acronyms"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
