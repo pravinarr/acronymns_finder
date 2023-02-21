@@ -17,4 +17,4 @@ Make sure that you have permission to access acronyms api. [You can request here
 - Service is layer uses singleton for better memory management
 - Data serialization models will be under ```models``` directory 
 
-#If you want to install the app in your Android phone, then download the app here and intall it directly on your device.
+#If you want to install the app in your Android phone, then download the app [here](https://github.com/pravinarr/acronymns_finder/blob/main/apks/app-release.apk) and intall it directly on your device.
