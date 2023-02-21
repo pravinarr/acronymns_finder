@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Acronym Search',
       theme: ThemeData(
         primaryColor: Colors.black,
-        fontFamily: GoogleFonts.adventPro().fontFamily,
+        fontFamily: GoogleFonts.abhayaLibre().fontFamily,
       ),
       home: const SearchPage(),
     );
