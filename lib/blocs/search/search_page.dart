@@ -97,6 +97,8 @@ class _SearchPageState extends State<SearchPage> {
                           controller: _searchController,
                           cursorColor: Colors.black,
                           focusNode: _searchFocus,
+                          textInputAction: TextInputAction.search,
+                          autofocus: true,
                           decoration: InputDecoration(
                               hintText: 'Search for acronyms',
                               suffixIcon: IconButton(
