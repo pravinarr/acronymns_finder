@@ -13,7 +13,7 @@ Installation:
 
 ##Architecture:
 - Uses MVVM pattern, acheived using bloc state management. [More info here](https://bloclibrary.dev/#/)
-- Business logic will be under bloc directory inside each module
+- Business logic will be under ```bloc``` directory inside each module
 - Service is layer uses singleton for better memory management
 - Data serialization models will be under ```models``` directory 
 
